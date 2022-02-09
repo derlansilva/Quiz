@@ -1,2 +1,2 @@
-# Quiz
-blog de perguntas e resposta
+# sendMessages
+troca de mensagens entre usuarios
